@@ -10,4 +10,8 @@
 - Split the arrays into training and test arrays (4 resulting arrays)
 
 ## Task 3
--  
+- Load the GD_Example.txt into a numpy array, from the data folder of this repo.
+- Plot the data points
+- Implement the cost function
+- Using gradient descent algorithm with 500 iterations, find the best fitting line characterized by: 𝑚𝑥 + 𝑏. (determine m and b)
+- Plot the final fitting line alongside with the scattered data points.
