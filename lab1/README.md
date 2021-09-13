@@ -17,4 +17,4 @@
 - Use gradient descent algorithm to iteratively evaluate your parameters and compute loss and minimize the loss.
 - Use the gradient descent to classify the generated data.
 - Plot the data points and training loss.
-- Use classification report from [scikit-learn] (https://scikit-learn.org/stable/modules/model_evaluation.html#classification-report) to display evaluation results.
+- Use classification report from [scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-report). to display evaluation results.
